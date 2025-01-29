@@ -7,7 +7,7 @@
                 return `${this.species}`;
             }
 
-            mekeSound(){
+            makeSound(){
                 console.log(`The ${this.species} makes a sound`);
             }
         }
