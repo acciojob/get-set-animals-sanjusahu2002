@@ -28,9 +28,7 @@
                 console.log('woof')
             }
         }
-        const myCat = new Cat('Simeanse');
-        myCat.mekeSound();
-        myCat.purr();
+
 
 
 // Do not change the code below this line
